@@ -2,7 +2,9 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FAVSS.2018.8639378-blue)](https://doi.org/10.1109/AVSS.2018.8639378)
 
-This repository contains code related to the research paper "Adapting MobileNets for mobile based upper body pose estimation" by Debnath et al.
+This repository contains code related to the research paper "Adapting MobileNets for mobile based upper body pose estimation".
+
+![Network Architecture](network.png)
 
 **Paper Summary:**
 
